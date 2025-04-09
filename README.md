@@ -1,12 +1,50 @@
-# React + Vite
+# ⚡ Super Animated Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully animated and modern **React Counter App** built with:
 
-Currently, two official plugins are available:
+- 🧠 React + useState
+- 🌈 Tailwind CSS (Glassmorphism UI)
+- 💥 Framer Motion for smooth animations
+- 🔮 Gradient background + 3D effects
+- 🚀 Interactive, glowing buttons & animated flip counter
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Live Preview
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://zingy-dango-4090d1.netlify.app/
+
+---
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/c0d0a3cb-7112-48f5-9ee7-7c9ffd365659)
+
+
+---
+
+## 🛠️ Features
+
+- Count up & down with smooth animations
+- Flip effect on number change
+- Animated appearance on page load
+- Responsive layout
+- Glassmorphism UI style
+- Interactive neon buttons with pulse effect
+
+---
+
+## 📦 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/animated-counter-app.git
+cd animated-counter-app
